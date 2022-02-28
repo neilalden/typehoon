@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272703103850",
+    "project_id": "type-hoon",
+    "storage_bucket": "type-hoon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272703103850:android:e82941696b8524c4de3b13",
+        "android_client_info": {
+          "package_name": "com.typehoon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272703103850-hbfqaraahgbr76p3m2l0mo8la5i7931j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.typehoon",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "272703103850-lijqnft6562f060qh45cvo3kkoj8nnfg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.typehoon",
+            "certificate_hash": "963b3a2a555e27a0ec614a5638e880dfa2b85588"
+          }
+        },
+        {
+          "client_id": "272703103850-sqqd39goa1q6fe8tcv19nqm4sap9t5qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1mOk_VWM-3AaZdAKgDgxsK445zLKyWEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272703103850-sqqd39goa1q6fe8tcv19nqm4sap9t5qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
